@@ -11,6 +11,7 @@ public class CusSms {
     private String cname;
     private String token;
 
+    //江西
     public Long getCid() {
         return cid;
     }
