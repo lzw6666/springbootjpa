@@ -11,7 +11,7 @@ public class CusSms {
     private String cname;
     private String token;
 
-    //江西
+    //江西理工大学lzw
 
     public Long getCid() {
         return cid;
